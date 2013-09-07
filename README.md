@@ -1,4 +1,4 @@
-VideoSegmentationEvaluationScripts
-==================================
+VideoSegmentationEvaluation
+===========================
 
-This repository contains helper scripts for evaluation video segmentation methods.
+This repository contains helper scripts for evaluating video segmentation methods.
