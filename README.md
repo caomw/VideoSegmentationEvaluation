@@ -1,4 +1,1 @@
-VideoSegmentationEvaluation
-===========================
-
-This repository contains helper scripts for evaluating video segmentation methods.
+This repository contains undocumented helper scripts for evaluating video segmentation methods using the <a href='http://lmb.informatik.uni-freiburg.de/resources/datasets/'>Berkeley Motion Segmentation Dataset</a>.
